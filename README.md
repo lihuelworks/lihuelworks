@@ -5,8 +5,6 @@ Soy Mathias Lihuel Gomez, estudiante de 3er año en Ingeniería en Sistemas (UTN
 - 🔭 Busco trabajo de front-end developer
 - ⚙️ Trabajo con `HTML5`, `CSS`, `React.js`, `Node.js`, `Javascript` (Y otras herramientas [front-end varias](https://github.com/lihuelworks/nutriabot/))
 - 🌱 Aprendiendo `Shopify`, `Next.js` y `Typescript`
-- 👩🏻‍💻 Actualmente **becario de investigación** en **Grupo GIDAS**, en la UTN FRLP.
-  - Previamente **becario de investigación** en **laboratorio CODAPLI**, enfocado en accesibilidad.
 
 
 <p align="center">¡No dudes en contactarme!</p>
