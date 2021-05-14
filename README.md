@@ -5,7 +5,7 @@ Soy Mathias Lihuel Gomez, estudiante de 3er año en Ingeniería en Sistemas (UTN
 - 💻 Actualmente trabajando para Lenovo
 - 🔭 Mi puesto es Full-stack Dev
 - ⚙️ Trabajo con `HTML5`, `CSS`, `React`, `Vue`, `Node.js`, `Javascript` (Y otras herramientas [front-end varias](https://github.com/lihuelworks/nutriabot/))
-- 🌱 Aprendiendo `Shopify`, `Next.js` y `Typescript`
+- 🌱 Aprendiendo `Nuxt`, `Apollo` y `GraphQL`
 
 
 <p align="center">¡No dudes en contactarme!</p>
