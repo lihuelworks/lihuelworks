@@ -14,7 +14,6 @@ Soy Mathias Lihuel Gomez, estudiante de 3er año en Ingeniería en Sistemas (UTN
     <a href="mailto:lihuelworks@gmail.com" alt="Mail"><img src="./assets/icons/mail-fill.svg"></a>
     <a href="https://twitter.com/lihuelworks" alt="Twitter"><img 
     src="./assets/icons/twitter-fill.svg"></a>
-    <a href="https://www.instagram.com/lihuelworks/" alt="Instagram"><img src="./assets/icons/instagram-line.svg"></a>
 </p>
 
 
