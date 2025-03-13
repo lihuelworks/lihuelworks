@@ -1,7 +1,7 @@
 # Hi! 👋
 ##  I'm Mathias, a Full-stack dev looking for work 🚀
 
-I'm a full-stack developer with 6 years of experience building and maintaining web applications using ReactJS (6 years), Node.js (6 years), Vue.js (4 years), and AWS (4 years). My DevOps experience includes cloud computing, authentication services, and CI/CD.
+I'm a full-stack developer with 6 years of experience building and maintaining web applications using ReactJS, Node.js, Vue.js , and AWS. My DevOps experience includes cloud computing, authentication services, and CI/CD.
 
 ### 🔨 Skills:
 
